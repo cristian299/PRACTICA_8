@@ -18,8 +18,13 @@ public class PRACTICA_08 {
         // TODO code application logic here
         System.out.println("Práctica 8 de git");
         System.out.println("Suma de (1,2) = " + suma(1,2));
+        System.out.println("Multiplica (1,2) = " + multiplica(1,2));
     }
     public static int suma(int a, int b){
       return a+b;  
+    }
+    
+    public static int multiplica(int a, int b){
+      return a*b;  
     }
 }
