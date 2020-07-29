@@ -17,6 +17,9 @@ public class PRACTICA_08 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Práctica 8 de git");
+        System.out.println("Suma de (1,2) = " + suma(1,2));
     }
-    
+    public static int suma(int a, int b){
+      return a+b;  
+    }
 }
