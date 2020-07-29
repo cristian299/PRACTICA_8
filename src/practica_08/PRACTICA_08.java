@@ -24,6 +24,7 @@ public class PRACTICA_08 {
       return a+b;  
     }
     
+    
     public static int multiplica(int a, int b){
       return a*b;  
     }
